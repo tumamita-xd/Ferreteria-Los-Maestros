@@ -1,16 +1,38 @@
-# React + Vite
+## Equipo N°4
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Integrantes: 
 
-Currently, two official plugins are available:
+             Gabriel Ravanales ga.ravanales@duocuc.cl
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+             Bastian Jara G bas.jarag@duocuc.cl
 
-## React Compiler
+## Caso
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ Ferreteria Los Maestros
 
-## Expanding the Oxlint configuration
+## Descripcion del caso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Ferreteria los Maestros requiere una actualizacion en sus sistemas, lo que el nuevo sistema conseguiria seria: Reparar los cuellos de botella que el sistema actual posee, Optimizar el uso para clientes que quieran revisar stock y items que la ferreteria tiene. Mejorar el uso del inventario para trabajadores 
+
+## Estructura del projecto
+
+src/
+├── components/
+│   ├── atoms/
+│   ├── molecules/
+│   ├── organisms/
+│   └── templates/
+└── pages/
+
+## Tecnologias
+
+— React + Vite
+— React Bootstrap
+— JSX
+
+## Como ejecutar el projecto
+
+npm install
+npm run dev
+
+## Material complementario
